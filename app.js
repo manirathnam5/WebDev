@@ -65,3 +65,7 @@
 
   console.log(document);
   console.dir(document);
+
+  let company = " Remote company ";
+
+  console.log(company);
