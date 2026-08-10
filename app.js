@@ -60,9 +60,7 @@
   }
 
   add(4,5);
-
   add(44,55);
-
   add(7,6);
 
   console.log(document);
