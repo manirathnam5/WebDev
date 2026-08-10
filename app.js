@@ -69,3 +69,12 @@
   let company = " Remote company ";
 
   console.log(company);
+
+  isPassed=true;
+
+  if(isPassed){
+    console.log("Test passed ");
+  }
+
+
+
