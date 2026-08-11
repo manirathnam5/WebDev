@@ -78,3 +78,9 @@
 
 
 
+ document.body.innerHTML="<h1>Hello World </h1>"
+ document.body.style.color="blue";
+ document.body.style.backgroundColor="lightblue";
+
+
+ 
